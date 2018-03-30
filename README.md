@@ -9,14 +9,17 @@
   * html
   * css
   * javascript
+  
  * 前端框架
   * angular
   * vue
   * react
+  
  * 前端工程化
   * 代码规范
   * 自动化构建
   * 自动化测试
+  
  * 移动web
   * web app
   * hybrid app
@@ -25,9 +28,11 @@
   
 ### node.js后端 
   * node.js基础
+  
   * web框架
    * express
    * koa2
+   
   * 存储
    * mysql
    * redis
