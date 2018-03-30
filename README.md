@@ -14,7 +14,7 @@
 	- [前端基础](#frontendFoundation)
 		- [html](#html)
 		- [css](#css)
- 		- [javascript](#javascript)
+		- [javascript](#javascript)
 	- [前端框架](#frontendFrame)
  		- [angular](#angular)
   		- [vue](#vue)
@@ -115,4 +115,4 @@
 	- [项目管理](#projectManagement)
 		- [jira](#jira)
 
-## 计算机基础
+<h3 id="computerFoundation">计算机基础</h3>
