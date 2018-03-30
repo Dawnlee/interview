@@ -6,9 +6,9 @@
 
 ### 前端
  * 前端基础
-  * html
-  * css
-  * javascript
+  * html
+  * css
+  * javascript
   
  * 前端框架
   * angular
