@@ -26,15 +26,7 @@
     * pwa
     * native app
   
+  
 ### node.js后端 
   * node.js基础
-   
-  * web框架
-      * express
-      * koa2
-   
-  * 存储
-      * mysql
-      * redis
-      * elasticsearch
  
