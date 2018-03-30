@@ -11,30 +11,30 @@
    * javascript
   
  * 前端框架
-   * angular
-   * vue
-   * react
+    * angular
+    * vue
+    * react
   
  * 前端工程化
-   * 代码规范
-   * 自动化构建
-   * 自动化测试
+    * 代码规范
+    * 自动化构建
+    * 自动化测试
   
  * 移动web
-   * web app
-   * hybrid app
-   * pwa
-   * native app
+    * web app
+    * hybrid app
+    * pwa
+    * native app
   
 ### node.js后端 
   * node.js基础
    
   * web框架
-    * express
-    * koa2
+      * express
+      * koa2
    
   * 存储
-    * mysql
-    * redis
-    * elasticsearch
+      * mysql
+      * redis
+      * elasticsearch
  
