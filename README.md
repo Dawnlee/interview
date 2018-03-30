@@ -1,3 +1,4 @@
+## 目录
 - [**计算机基础**](#computerFoundation)
 	- [算法](#algorithm)
 	- [数据结构](#dataStructure)
@@ -116,3 +117,4 @@
 		- [jira](#jira)
 
 <h4 id="computerFoundation">计算机基础</h4>
+<h5 id="algorithm">算法</h5>
