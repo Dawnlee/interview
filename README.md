@@ -3,6 +3,9 @@
  * 数据结构
  * 网络
  * 操作系统
+ 
+### 设计 
+ * angular material
 
 ### 前端
  * 前端基础
@@ -24,7 +27,7 @@
    * native app
 
 ### node.js后端
- * node.js 基础
+ * node.js基础
  * web框架
   * express   
   * koa2
@@ -37,6 +40,17 @@
  * redis
  * elasticsearch
  * kafka
+ 
+### 运维 
+ * nginx
+ * devops
+  * docker
+  * kubernetes
+  * jenkins
+ * elk
+
+### 分布式系统
+ * 爬虫
 
 ### 大数据
  * hadoop
@@ -45,4 +59,15 @@
 ### 机器学习
  * tensorflow
  * scikit-learn
+ 
+### 云计算 
+ * aws
+ 
+### 其他
+ * 代码管理
+  * git
+  * gitlab
+  * sourcetree
+ * 项目管理及bug管理
+  * jira
  
