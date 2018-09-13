@@ -43,6 +43,7 @@
 	- [桌面应用](#desktopApp)
 		- [electron](#electron)
 	- [游戏开发](#game)
+		- [unity3D](#unity3D) 
 		- [phaser.js](#phaser.js)
 		- [cocos2d-x](#cocos2d-x)
 
@@ -127,6 +128,7 @@
 		- [sourcetree](#sourcetree)
 	- [项目管理](#projectManagement)
 		- [jira](#jira)
+		- [teambition](#teambition)
 
 <h4 id="computerFoundation">计算机基础</h4>
 <h5 id="algorithm">算法</h5>
