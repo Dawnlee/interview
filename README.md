@@ -27,6 +27,7 @@
 		- [echart](#echart)
 		- [d3](#d3)
 		- [three.js](#three.js)
+		- [mapbox](#mapbox)
 		- [gsap](#gsap)
 		- [svg.js](svg.js)
  	- [前端工程化](#frontendEngineering)
